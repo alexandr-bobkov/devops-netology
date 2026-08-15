@@ -192,7 +192,7 @@ Bobkov
 -------
 
 <details>
-<summary><b>Рекомендации пр работе с Terraform</b></summary>
+<summary><b>Рекомендации при работе с Terraform</b></summary>
 
 1. **Директория `.terraform/`**
    * *Что это:* Папка, куда Terraform скачивает провайдеры (например, для AWS, Yandex Cloud) и модули.
